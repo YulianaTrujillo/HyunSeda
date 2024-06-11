@@ -1,7 +1,7 @@
 # HyunSeda
-Ingeniería de software II
-Entrega final
-Universidad del Cauca
+Ingeniería de software II  
+Entrega final  
+Universidad del Cauca  
 Integrantes:
   - Juan Sebastian Pisso Solarte
   - Andrés Felipe Castro Burbano
